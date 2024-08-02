@@ -166,7 +166,7 @@
     row-gap: 1rem;
 }
 .card {
-    background: url(/images/card-1.png) no-repeat scroll center;
+    background: url(../images/card-1.png) no-repeat scroll center;
     background-size: cover;
     grid-column: span 3;
     display: flex;
@@ -275,11 +275,11 @@ border-color: var(--biru_1);
 /*                  Pembatas biar gampang bacanya                            */
 /*      card pembicara semnas        */
 .gs-card-container > div:first-child {
-    background: url(images/pembicara-1.png) no-repeat scroll center;
+    background: url(../images/pembicara-1.png) no-repeat scroll center;
     background-size: cover;
 }
 .gs-card-container > div:last-child {
-    background: url(images/pembicara-2.png) no-repeat scroll center;
+    background: url(../images/pembicara-2.png) no-repeat scroll center;
     background-size: cover;
 }
 .gs-card-container > div:hover {  
